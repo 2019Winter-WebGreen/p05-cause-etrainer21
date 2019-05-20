@@ -1,0 +1,26 @@
+/*
+* Emily Trainer
+* 5/19/19
+* Save the Turtles
+*/
+
+/* The universal selector */
+
+/* This is my css for all of my picture formatting */
+#turtles {float:right;}
+#trash {width:200px; height:150px}
+#crazy {width:200px; height:200px;}
+#cute {width:200px; height:200px;}
+#cutebaby {width:200px; height: 200px;}
+#turtle {width: 200px; height: 150px;}
+
+
+/* This is my margins and my font sizes */
+    {margin: 0;
+     padding:0;}
+p{font-size: 12px;}
+/* Body attributes here */
+
+body {
+ background-color: lightgoldenrodyellow
+}
